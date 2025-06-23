@@ -12,3 +12,6 @@
 
 *MENTOR*: NEELA SANTOSH
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/71b95d02-7961-4bfb-bc27-8fca6b16827a)
